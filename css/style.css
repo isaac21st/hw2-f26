@@ -94,3 +94,14 @@ div {
 .green p {
   color: #FFFFFF;
 }
+
+footer {
+  background: linear-gradient(to right, #000000 0%, #0000FF 25%, #0066FF 70%, #000000 100%);
+  border: 5px solid #FFFFFF;
+}
+
+footer p {
+  font-size: 20px;
+  text-align: right;
+  padding: 15px 15px 15px 0;
+}
